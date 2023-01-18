@@ -27,7 +27,6 @@ import os
 from sys import platform
 import re 
 
-
 #функция для очистки экрана
 def clear_screen():
     if platform == "linux" or platform == "linux2" or platform == "darwin":
